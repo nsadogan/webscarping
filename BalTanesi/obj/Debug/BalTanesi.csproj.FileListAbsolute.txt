@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\BalTanesi\BalTanesi\bin\Debug\BalTanesi.exe.config
+C:\Users\Hp\source\repos\BalTanesi\BalTanesi\bin\Debug\BalTanesi.exe
+C:\Users\Hp\source\repos\BalTanesi\BalTanesi\bin\Debug\BalTanesi.pdb
+C:\Users\Hp\source\repos\BalTanesi\BalTanesi\obj\Debug\BalTanesi.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\BalTanesi\BalTanesi\obj\Debug\BalTanesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\BalTanesi\BalTanesi\obj\Debug\BalTanesi.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\BalTanesi\BalTanesi\obj\Debug\BalTanesi.exe
+C:\Users\Hp\source\repos\BalTanesi\BalTanesi\obj\Debug\BalTanesi.pdb
